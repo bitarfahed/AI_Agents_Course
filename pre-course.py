@@ -1,2 +1,2 @@
-print("hello world")
-print("I am a future AI Engineer")
+for i in range(5):
+    print("hello world")
